@@ -160,10 +160,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses OpenRouter API for AI capabilities
 - Icons from various open-source libraries
 
-## Contact
+## Author
+Jatin - Python & frontend Developer
 
-Project Link: [https://github.com/your-username/brutalgpt](https://github.com/your-username/brutalgpt)
+GitHub: @jagbiryadav
+LinkedIn: @jagbir-yadav
+
 
 ## Disclaimer
 
 This is a frontend clone project for educational purposes. It is not affiliated with OpenAI or ChatGPT. The simulated AI responses are generated locally and are not powered by any real AI model unless an API key is provided. This tool is designed for cybersecurity and coding professionals who require unrestricted capabilities for legitimate research and development purposes.
+
