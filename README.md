@@ -1,17 +1,21 @@
-# BrutalGPT - ChatGPT Clone
+# BrutalGPT - Next-Gen Uncensored AI Chatbot
 
-A responsive, feature-rich ChatGPT clone built with HTML, CSS, and JavaScript. This project mimics the core functionality of ChatGPT with a modern UI and additional features like dark mode, chat history, and file attachments.
+A next-gen uncensored AI chatbot for cybersecurity and coding. Built for unrestricted conversations, raw code generation, and advanced security research. Ideal for experts who need full control, freedom, and power beyond standard AI limits.
 
 ![BrutalGPT Demo](images/brutalgpt.png)
 
 ## Features
 
-- 🤖 **AI Chat Interface**: Interactive chat interface similar to ChatGPT
+- 🛡️ **Cybersecurity Focus**: Designed specifically for security research and analysis
+- 💻 **Raw Code Generation**: Generate unrestricted code for various programming languages
+- 🔓 **Uncensored Conversations**: Engage in unrestricted dialogue without standard AI limitations
+- 🧠 **Advanced Security Research**: Tools and capabilities for expert-level security analysis
+- 🎯 **Expert Control**: Full control and freedom for advanced users
 - 🌙 **Dark/Light Mode**: Toggle between dark and light themes
 - 💬 **Chat History**: Save and load previous conversations
 - 📁 **File Attachments**: Support for image and document uploads
 - 🎨 **Responsive Design**: Works on mobile, tablet, and desktop
-- 🧠 **Simulated AI Responses**: Intelligent simulated responses when API key is not provided
+- 🧪 **Simulated AI Responses**: Intelligent simulated responses when API key is not provided
 - 🔧 **Code Mode**: Specialized mode for Python code generation with syntax highlighting
 - 🎯 **Sidebar Navigation**: Collapsible sidebar for better screen utilization
 - 📋 **Message Actions**: Copy, regenerate, and manage messages
@@ -162,5 +166,4 @@ Project Link: [https://github.com/your-username/brutalgpt](https://github.com/yo
 
 ## Disclaimer
 
-
-This is a frontend clone project for educational purposes. It is not affiliated with OpenAI or ChatGPT. The simulated AI responses are generated locally and are not powered by any real AI model unless an API key is provided.
+This is a frontend clone project for educational purposes. It is not affiliated with OpenAI or ChatGPT. The simulated AI responses are generated locally and are not powered by any real AI model unless an API key is provided. This tool is designed for cybersecurity and coding professionals who require unrestricted capabilities for legitimate research and development purposes.
