@@ -161,13 +161,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons from various open-source libraries
 
 ## Author
-Jatin - Python & frontend Developer
+Jagbir yadav - Python & frontend Developer
 
 GitHub: @jagbiryadav
+
 LinkedIn: @jagbir-yadav
 
 
 ## Disclaimer
 
 This is a frontend clone project for educational purposes. It is not affiliated with OpenAI or ChatGPT. The simulated AI responses are generated locally and are not powered by any real AI model unless an API key is provided. This tool is designed for cybersecurity and coding professionals who require unrestricted capabilities for legitimate research and development purposes.
+
 
