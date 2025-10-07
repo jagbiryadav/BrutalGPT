@@ -36,7 +36,7 @@ A next-gen uncensored AI chatbot for cybersecurity and coding. Built for unrestr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/brutalgpt.git
+   https://github.com/jagbiryadav/BrutalGPT.git
    ```
 
 2. Navigate to the project directory:
@@ -171,6 +171,7 @@ LinkedIn: @jagbir-yadav
 ## Disclaimer
 
 This is a frontend clone project for educational purposes. It is not affiliated with OpenAI or ChatGPT. The simulated AI responses are generated locally and are not powered by any real AI model unless an API key is provided. This tool is designed for cybersecurity and coding professionals who require unrestricted capabilities for legitimate research and development purposes.
+
 
 
 
