@@ -19,7 +19,7 @@ A responsive, feature-rich ChatGPT clone built with HTML, CSS, and JavaScript. T
 
 ## Demo
 
-![BrutalGPT Screenshot](images/screenshot.png)
+![BrutalGPT Screenshot](images/demo.png)
 
 ## Getting Started
 
@@ -161,5 +161,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Project Link: [https://github.com/your-username/brutalgpt](https://github.com/your-username/brutalgpt)
 
 ## Disclaimer
+
 
 This is a frontend clone project for educational purposes. It is not affiliated with OpenAI or ChatGPT. The simulated AI responses are generated locally and are not powered by any real AI model unless an API key is provided.
