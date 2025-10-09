@@ -2,7 +2,7 @@
 
 A next-gen uncensored AI chatbot for cybersecurity and coding. Built for unrestricted conversations, raw code generation, and advanced security research. Ideal for experts who need full control, freedom, and power beyond standard AI limits.
 
-![BrutalGPT Demo](images/demologo.png)
+![BrutalGPT Demo](images/logodemo.png)
 
 ## Features
 
@@ -209,5 +209,6 @@ LinkedIn: @jagbir-yadav
 ## Disclaimer
 
 This is a frontend clone project for educational purposes. It is not affiliated with OpenAI or ChatGPT. The simulated AI responses are generated locally and are not powered by any real AI model unless an API key is provided. This tool is designed for cybersecurity and coding professionals who require unrestricted capabilities for legitimate research and development purposes.
+
 
 
